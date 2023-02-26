@@ -1,0 +1,871 @@
+2023/02/20 10:43:27 [emerg] 6844#17144: unexpected "}" in C:\Users\asus\Desktop\nginx2/conf/nginx.conf:186
+2023/02/20 10:46:57 [notice] 8520#18392: sockinit() attempting to access sockapi
+2023/02/20 10:46:57 [notice] 8520#18392: Access to sockapi succeded!
+2023/02/20 10:46:57 [notice] 8520#18392: using sockapi from "4;296;"
+2023/02/20 10:46:57 [notice] 1660#16520: sockinit() attempting to access sockapi
+2023/02/20 10:46:57 [notice] 1660#16520: Access to sockapi succeded!
+2023/02/20 10:46:57 [notice] 1660#16520: using sockapi from "4;8;"
+2023/02/20 10:48:07 [notice] 5360#16616: Fatal: wait for sockapi failed
+2023/02/20 10:48:10 [notice] 18496#10132: Fatal: wait for sockapi failed
+2023/02/20 10:48:13 [notice] 17736#10524: Fatal: wait for sockapi failed
+2023/02/20 10:48:19 [notice] 5400#17612: Fatal: wait for sockapi failed
+2023/02/20 10:56:30 [notice] 16624#9448: sockinit() attempting to access sockapi
+2023/02/20 10:56:30 [notice] 16624#9448: Access to sockapi succeded!
+2023/02/20 10:56:30 [notice] 16624#9448: using sockapi from "4;88;"
+2023/02/20 10:56:30 [notice] 10668#17120: sockinit() attempting to access sockapi
+2023/02/20 10:56:30 [notice] 10668#17120: Access to sockapi succeded!
+2023/02/20 10:56:30 [notice] 10668#17120: using sockapi from "4;8;"
+2023/02/20 10:56:38 [error] 16624#17388: *1 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/02/20 11:01:15 [notice] 18344#10388: sockinit() attempting to access sockapi
+2023/02/20 11:01:15 [notice] 18344#10388: Access to sockapi succeded!
+2023/02/20 11:01:15 [notice] 18344#10388: using sockapi from "4;84;"
+2023/02/20 11:01:15 [notice] 16612#16664: sockinit() attempting to access sockapi
+2023/02/20 11:01:15 [notice] 16612#16664: Access to sockapi succeded!
+2023/02/20 11:01:15 [notice] 16612#16664: using sockapi from "4;8;"
+2023/02/20 11:01:19 [error] 18344#16748: *3 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *5 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *7 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *9 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *11 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *13 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *15 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *17 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *19 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *21 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *23 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *25 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *27 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *29 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *31 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *33 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *35 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *37 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *39 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *41 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *43 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *45 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *47 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *49 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *51 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *53 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *55 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *57 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *59 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *61 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *63 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *65 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *67 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *69 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *71 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *73 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *75 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *77 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *79 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *81 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *83 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *85 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *87 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *89 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *91 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *93 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *95 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *97 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *99 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *101 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *103 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *105 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *107 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *109 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *111 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *113 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *115 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *117 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *119 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *121 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *123 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *125 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *127 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *129 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *131 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *133 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *135 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *137 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *139 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *141 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *143 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *145 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *147 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *149 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *151 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *153 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *155 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *157 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *159 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *161 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *163 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *165 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *167 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *169 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *171 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *173 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *175 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *177 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *179 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *181 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *183 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *185 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *187 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *189 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *191 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *193 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *195 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *197 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *199 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *201 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *203 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *205 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *207 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *209 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *211 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *213 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *215 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *217 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *219 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *221 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *223 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *225 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *227 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *229 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *231 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *233 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *235 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *237 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *239 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *241 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *243 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *245 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *247 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *249 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *251 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *253 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *255 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *257 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *259 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *261 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *263 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *265 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *267 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *269 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *271 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *273 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *275 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *277 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *279 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *281 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *283 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *285 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *287 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *289 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *291 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *293 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *295 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *297 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *299 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *301 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *303 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *305 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *307 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *309 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *311 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *313 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *315 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *317 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *319 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *321 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *323 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *325 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *327 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *329 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *331 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *333 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *335 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *337 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *339 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *341 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *343 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *345 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *347 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *349 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *351 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *353 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *355 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *357 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *359 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *361 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *363 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *365 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *367 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *369 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *371 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *373 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *375 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *377 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *379 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *381 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *383 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *385 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *387 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *389 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *391 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *393 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *395 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *397 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *399 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *401 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *403 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *405 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *407 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *409 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *411 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *413 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *415 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *417 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *419 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *421 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *423 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *425 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *427 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *429 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *431 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *433 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *435 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *437 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *439 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *441 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *443 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *445 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *447 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *449 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *451 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *453 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *455 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *457 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *459 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *461 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *463 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *465 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *467 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *469 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *471 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *473 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *475 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *477 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *479 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *481 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *483 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *485 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *487 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *489 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *491 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *493 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *495 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *497 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *499 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *501 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *503 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *505 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *507 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *509 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *511 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *513 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *515 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *517 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *519 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *521 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *523 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *525 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *527 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *529 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *531 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *533 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *535 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *537 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *539 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *541 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *543 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *545 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *547 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *549 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *551 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *553 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *555 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *557 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *559 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *561 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *563 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *565 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *567 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *569 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *571 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *573 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *575 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *577 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *579 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *581 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *583 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *585 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *587 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *589 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *591 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *593 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *595 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *597 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *599 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *601 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *603 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *605 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *607 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *609 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *611 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *613 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *615 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *617 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *619 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *621 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *623 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *625 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *627 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *629 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *631 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *633 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *635 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *637 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *639 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *641 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *643 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *645 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *647 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *649 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *651 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *653 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *655 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *657 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *659 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *661 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *663 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *665 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *667 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *669 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *671 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *673 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *675 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *677 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *679 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *681 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *683 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *685 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *687 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *689 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *691 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *693 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *695 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *697 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *699 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *701 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *703 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *705 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *707 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *709 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *711 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *713 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *715 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *717 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *719 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *721 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *723 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *725 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *727 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *729 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *731 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *733 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *735 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *737 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *739 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *741 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *743 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *747 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *749 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *751 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *753 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *755 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *757 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *759 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *761 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *763 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *765 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *767 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *769 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *771 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *773 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *775 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *777 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *779 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *781 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *783 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *785 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *787 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *789 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *791 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *793 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *795 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *797 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *799 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *801 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *803 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *805 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *807 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *809 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *811 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *813 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *815 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *817 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *819 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *821 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *823 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *825 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *827 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *829 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *831 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *833 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *835 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *837 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *839 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *841 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *843 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *845 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *847 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *849 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *851 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *853 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *855 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *857 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *859 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *861 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *863 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *865 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *867 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *869 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *871 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *873 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *875 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *877 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *879 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *881 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *883 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *885 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *887 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *889 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *891 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *893 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *895 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *897 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *899 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *901 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *903 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *905 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *907 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *909 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *911 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *913 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *915 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *917 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *919 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *921 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *923 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *925 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *927 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *929 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *931 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *933 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *935 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *937 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *939 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *941 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *943 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *945 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 16612#18428: *947 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:19 [error] 18344#16748: *949 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *951 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *953 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *955 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *957 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *959 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *961 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *963 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *965 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *967 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *969 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *971 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *973 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *975 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *977 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *979 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *981 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *983 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *985 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *987 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *989 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *991 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *993 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *995 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *997 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *999 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1001 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1003 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1005 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1007 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1009 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1011 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1013 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1015 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1017 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1019 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1021 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1023 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1025 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1027 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1029 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1031 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1033 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1035 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1037 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1039 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1041 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1043 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1045 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1047 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1049 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1051 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1053 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1055 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 18344#16748: *1057 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:01:20 [error] 16612#18428: *1059 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:02:02 [error] 18344#16748: *1061 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/20 11:02:06 [alert] 18344#16748: *388 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *248 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *246 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *244 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *242 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *240 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *238 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *236 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *234 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *232 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *230 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *228 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *226 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *378 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *452 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *416 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *382 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *298 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:03:24 [alert] 16612#18428: *836 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:03:24 [alert] 16612#18428: *804 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:03:24 [alert] 16612#18428: *750 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *940 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *586 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *864 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *856 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *840 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *800 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *796 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *792 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *788 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *786 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *782 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *778 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *774 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *770 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *766 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *762 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *758 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:05:11 [alert] 16612#18428: *754 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:02:06 [alert] 18344#16748: *520 WSASend() failed (10055: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full), client: 127.0.0.1:1935/, server: ngx-relay
+2023/02/20 11:28:02 [notice] 3960#14616: sockinit() attempting to access sockapi
+2023/02/20 11:28:02 [notice] 3960#14616: Access to sockapi succeded!
+2023/02/20 11:28:02 [notice] 3960#14616: using sockapi from "4;284;"
+2023/02/20 11:28:02 [notice] 12188#2784: sockinit() attempting to access sockapi
+2023/02/20 11:28:02 [notice] 12188#2784: Access to sockapi succeded!
+2023/02/20 11:28:02 [notice] 12188#2784: using sockapi from "4;8;"
+2023/02/20 11:28:10 [error] 3960#14132: *1 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2023/02/20 12:06:02 [notice] 10584#15028: Fatal: wait for sockapi failed
+2023/02/20 12:06:08 [notice] 11700#13908: Fatal: wait for sockapi failed
+2023/02/20 12:22:28 [emerg] 3972#7984: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:23:27 [emerg] 12872#13996: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:24:11 [emerg] 1276#12580: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:24:23 [emerg] 4184#7308: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:25:05 [emerg] 4500#14752: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:25:33 [emerg] 12148#9152: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:25:35 [emerg] 9036#12336: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:25:37 [emerg] 3692#14192: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:25:39 [emerg] 11036#7332: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:25:40 [emerg] 12944#14808: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:25:42 [emerg] 10856#13640: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:27:56 [emerg] 2504#3352: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:28:39 [emerg] 7572#8316: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:28:51 [emerg] 9316#9888: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:29:07 [emerg] 11696#12432: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:29:15 [emerg] 11344#13768: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:36:32 [emerg] 9568#5360: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:36:48 [emerg] 7620#13788: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:36:51 [emerg] 9164#9184: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:36:53 [emerg] 10304#4284: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 12:37:11 [emerg] 14520#6872: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:07:31 [emerg] 7448#4992: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:10:25 [emerg] 15068#1392: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:10:41 [emerg] 11044#14460: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:10:48 [emerg] 6552#1612: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:10:54 [emerg] 8844#1752: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:11:31 [emerg] 296#14496: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:11:46 [emerg] 4500#2068: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:13:24 [emerg] 10504#5220: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:13:35 [emerg] 3192#11992: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:44:23 [emerg] 10324#4332: CreateDirectory() "/tmp/hls" failed (3: The system cannot find the path specified)
+2023/02/20 13:45:16 [notice] 10824#9644: sockinit() attempting to access sockapi
+2023/02/20 13:45:16 [notice] 10824#9644: Access to sockapi succeded!
+2023/02/20 13:45:16 [notice] 10824#9644: using sockapi from "4;"
+2023/02/20 13:45:16 [notice] 14244#12228: sockinit() attempting to access sockapi
+2023/02/20 13:45:16 [notice] 14244#12228: Access to sockapi succeded!
+2023/02/20 13:45:16 [notice] 14244#12228: using sockapi from "4;"
+2023/02/20 14:04:36 [notice] 3504#9200: sockinit() attempting to access sockapi
+2023/02/20 14:04:36 [notice] 3504#9200: Access to sockapi succeded!
+2023/02/20 14:04:36 [notice] 3504#9200: using sockapi from "4;124;"
+2023/02/20 14:04:36 [notice] 15984#12160: sockinit() attempting to access sockapi
+2023/02/20 14:04:36 [notice] 15984#12160: Access to sockapi succeded!
+2023/02/20 14:04:36 [notice] 15984#12160: using sockapi from "4;8;"
+2023/02/20 14:13:00 [error] 3504#12400: *8 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 20.31.20.81, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "20.31.20.81", referrer: "http://20.31.20.81/"
+2023/02/20 14:24:39 [error] 15984#14920: *18 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 20.31.20.109, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "20.31.20.81", referrer: "http://20.31.20.81/"
+2023/02/20 14:26:02 [error] 3504#12400: *22 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 20.31.20.189, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "20.31.20.81", referrer: "http://20.31.20.81/"
+2023/02/21 10:37:53 [notice] 13300#11680: Fatal: wait for sockapi failed
+2023/02/25 18:36:04 [emerg] 4172#17140: "server_name" directive is not allowed here in C:\Users\asus\Desktop\nginx2/conf/nginx.conf:180
+2023/02/25 18:54:38 [notice] 21016#12788: using the "select-boost" event method
+2023/02/25 18:54:38 [notice] 21016#12788: nginx/1.7.11.3 Gryphon
+2023/02/25 18:54:38 [info] 21016#12788: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/25 18:54:38 [notice] 21016#12788: start worker processes
+2023/02/25 18:54:38 [notice] 21016#12788: start worker process 8968
+2023/02/25 18:54:38 [notice] 8968#21252: sockinit() attempting to access sockapi
+2023/02/25 18:54:38 [notice] 8968#21252: Access to sockapi succeded!
+2023/02/25 18:54:38 [notice] 8968#21252: using sockapi from "4;92;"
+2023/02/25 18:54:38 [notice] 8968#21252: nginx/1.7.11.3 Gryphon
+2023/02/25 18:54:38 [info] 8968#21252: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/25 18:54:38 [notice] 8968#21252: create thread 15344
+2023/02/25 18:54:38 [notice] 8968#21252: create thread 19744
+2023/02/25 18:54:38 [notice] 8968#21252: create thread 13764
+2023/02/25 18:54:43 [info] 8968#15344: *1 client connected '127.0.0.1'
+2023/02/25 18:54:43 [info] 8968#15344: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/live' tc_url='rtmp://localhost/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:54:43 [info] 8968#15344: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:54:43 [info] 8968#15344: *1 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:55:24 [error] 8968#15344: *2 CreateFile() "C:\Users\asus\Desktop\nginx2/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "localhost"
+2023/02/25 18:55:24 [info] 8968#15344: *2 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2023/02/25 18:55:26 [error] 8968#15344: *3 CreateFile() "C:\Users\asus\Desktop\nginx2/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "localhost"
+2023/02/25 18:57:06 [info] 8968#15344: *4 client connected '127.0.0.1'
+2023/02/25 18:57:06 [info] 8968#15344: *4 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:57:06 [info] 8968#15344: *4 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:57:06 [info] 8968#15344: *4 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:57:21 [info] 8968#15344: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:57:21 [info] 8968#15344: *1 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:57:21 [info] 8968#15344: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:57:21 [info] 8968#15344: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:58:56 [info] 8968#15344: *5 client connected '127.0.0.1'
+2023/02/25 18:58:56 [info] 8968#15344: *5 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/live' tc_url='rtmp://localhost/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:58:56 [info] 8968#15344: *5 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:58:56 [info] 8968#15344: *5 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:05 [info] 8968#15344: *4 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:05 [info] 8968#15344: *4 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:05 [info] 8968#15344: *4 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:06 [info] 8968#15344: *6 client connected '127.0.0.1'
+2023/02/25 18:59:06 [info] 8968#15344: *6 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:06 [info] 8968#15344: *6 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:06 [info] 8968#15344: *6 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:44 [info] 8968#15344: *6 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:44 [info] 8968#15344: *6 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:44 [info] 8968#15344: *6 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 18:59:46 [error] 8968#15344: *7 CreateFile() "C:\Users\asus\Desktop\nginx2/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "localhost:80"
+2023/02/25 18:59:46 [info] 8968#15344: *7 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2023/02/25 18:59:48 [error] 8968#15344: *8 CreateFile() "C:\Users\asus\Desktop\nginx2/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "localhost"
+2023/02/25 19:00:18 [info] 8968#15344: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 19:00:18 [info] 8968#15344: *5 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 19:00:18 [info] 8968#15344: *5 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 19:00:18 [info] 8968#15344: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 19:01:39 [notice] 1560#20428: using the "select-boost" event method
+2023/02/25 19:01:39 [notice] 1560#20428: nginx/1.7.11.3 Gryphon
+2023/02/25 19:01:39 [info] 1560#20428: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/25 19:01:39 [notice] 1560#20428: start worker processes
+2023/02/25 19:01:39 [notice] 1560#20428: start worker process 21084
+2023/02/25 19:01:40 [notice] 21084#7536: sockinit() attempting to access sockapi
+2023/02/25 19:01:40 [notice] 21084#7536: Access to sockapi succeded!
+2023/02/25 19:01:40 [notice] 21084#7536: using sockapi from "4;92;"
+2023/02/25 19:01:40 [notice] 21084#7536: nginx/1.7.11.3 Gryphon
+2023/02/25 19:01:40 [info] 21084#7536: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/25 19:01:40 [notice] 21084#7536: create thread 19468
+2023/02/25 19:01:40 [notice] 21084#7536: create thread 21288
+2023/02/25 19:01:40 [notice] 21084#7536: create thread 19284
+2023/02/25 21:00:48 [error] 21084#19468: *1 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8010", referrer: "http://127.0.0.1:8010/"
+2023/02/25 21:00:49 [info] 21084#19468: *2 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/25 21:00:49 [info] 21084#19468: *1 client 127.0.0.1 closed keepalive connection
+2023/02/25 21:03:38 [info] 21084#19468: *3 client connected '127.0.0.1'
+2023/02/25 21:03:38 [info] 21084#19468: *3 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/hls' tc_url='rtmp://localhost/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:03:38 [info] 21084#19468: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:03:38 [info] 21084#19468: *3 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:26 [info] 21084#19468: *5 client 127.0.0.1 closed keepalive connection
+2023/02/25 21:04:26 [info] 21084#19468: *6 client 127.0.0.1 closed keepalive connection
+2023/02/25 21:04:26 [info] 21084#19468: *4 client 127.0.0.1 closed keepalive connection
+2023/02/25 21:04:26 [info] 21084#19468: *7 client connected '127.0.0.1'
+2023/02/25 21:04:26 [info] 21084#19468: *7 connect: app='hls' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:26 [info] 21084#19468: *7 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:26 [info] 21084#19468: *7 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:44 [info] 21084#19468: *7 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:44 [info] 21084#19468: *7 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:44 [info] 21084#19468: *8 client connected '127.0.0.1'
+2023/02/25 21:04:44 [info] 21084#19468: *8 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:44 [info] 21084#19468: *8 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:04:44 [info] 21084#19468: *8 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:05:02 [info] 21084#19468: *8 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:05:02 [info] 21084#19468: *8 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:05:43 [info] 21084#19468: *9 client connected '127.0.0.1'
+2023/02/25 21:05:43 [info] 21084#19468: *9 connect: app='hls' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:05:43 [info] 21084#19468: *9 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:05:43 [info] 21084#19468: *9 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:26 [info] 21084#19468: *9 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:26 [info] 21084#19468: *9 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:26 [info] 21084#19468: *10 client connected '127.0.0.1'
+2023/02/25 21:06:26 [info] 21084#19468: *10 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:26 [info] 21084#19468: *10 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:26 [info] 21084#19468: *10 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:48 [info] 21084#19468: *10 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:48 [info] 21084#19468: *10 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:06:50 [error] 21084#19468: *11 CreateFile() "C:\Users\asus\Desktop\nginx2/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "localhost:8010"
+2023/02/25 21:06:50 [info] 21084#19468: *11 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2023/02/25 21:06:52 [error] 21084#19468: *12 CreateFile() "C:\Users\asus\Desktop\nginx2/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "localhost:8010"
+2023/02/25 21:07:36 [info] 21084#19468: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:07:36 [info] 21084#19468: *3 WSASend() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:07:36 [info] 21084#19468: *3 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:07:36 [info] 21084#19468: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:07:36 [info] 21084#19468: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/25 21:09:25 [error] 21084#19468: *13 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8010", referrer: "http://127.0.0.1:8010/"
+2023/02/25 21:09:33 [info] 21084#19468: *14 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/25 21:09:33 [info] 21084#19468: *13 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:19:06 [notice] 9828#10252: using the "select-boost" event method
+2023/02/26 08:19:06 [notice] 9828#10252: nginx/1.7.11.3 Gryphon
+2023/02/26 08:19:06 [info] 9828#10252: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/26 08:19:06 [notice] 9828#10252: start worker processes
+2023/02/26 08:19:06 [notice] 9828#10252: start worker process 7712
+2023/02/26 08:19:06 [notice] 7712#7948: sockinit() attempting to access sockapi
+2023/02/26 08:19:06 [notice] 7712#7948: Access to sockapi succeded!
+2023/02/26 08:19:06 [notice] 7712#7948: using sockapi from "4;164;"
+2023/02/26 08:19:06 [notice] 7712#7948: nginx/1.7.11.3 Gryphon
+2023/02/26 08:19:06 [info] 7712#7948: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/26 08:19:06 [notice] 7712#7948: create thread 9072
+2023/02/26 08:19:06 [notice] 7712#7948: create thread 16112
+2023/02/26 08:19:06 [notice] 7712#7948: create thread 332
+2023/02/26 08:19:17 [info] 7712#9072: *1 client connected '127.0.0.1'
+2023/02/26 08:19:17 [info] 7712#9072: *1 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/hls' tc_url='rtmp://localhost/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:19:17 [info] 7712#9072: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:19:17 [info] 7712#9072: *1 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:20:48 [info] 7712#9072: *3 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:20:48 [info] 7712#9072: *4 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:20:48 [info] 7712#9072: *2 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:20:48 [info] 7712#9072: *5 client connected '127.0.0.1'
+2023/02/26 08:20:48 [info] 7712#9072: *5 connect: app='hls' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:20:48 [info] 7712#9072: *5 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:20:48 [info] 7712#9072: *5 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:20:58 [info] 7712#9072: *5 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:20:58 [info] 7712#9072: *5 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:20:58 [info] 7712#9072: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:26:10 [info] 7712#9072: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:26:10 [info] 7712#9072: *1 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:26:10 [info] 7712#9072: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:26:10 [info] 7712#9072: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:26:46 [emerg] 11836#15232: the same path name "temp/hls" used in C:\Users\asus\Desktop\nginx2/conf/nginx.conf:35 and in C:\Users\asus\Desktop\nginx2/conf/nginx.conf:35
+2023/02/26 08:26:59 [emerg] 15944#12016: the same path name "temp/hls" used in C:\Users\asus\Desktop\nginx2/conf/nginx.conf:35 and in C:\Users\asus\Desktop\nginx2/conf/nginx.conf:35
+2023/02/26 08:29:14 [notice] 12252#4852: using the "select-boost" event method
+2023/02/26 08:29:14 [notice] 12252#4852: nginx/1.7.11.3 Gryphon
+2023/02/26 08:29:14 [info] 12252#4852: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/26 08:29:14 [notice] 12252#4852: start worker processes
+2023/02/26 08:29:14 [notice] 12252#4852: start worker process 8760
+2023/02/26 08:29:14 [notice] 8760#5676: sockinit() attempting to access sockapi
+2023/02/26 08:29:14 [notice] 8760#5676: Access to sockapi succeded!
+2023/02/26 08:29:14 [notice] 8760#5676: using sockapi from "4;92;"
+2023/02/26 08:29:14 [notice] 8760#5676: nginx/1.7.11.3 Gryphon
+2023/02/26 08:29:14 [info] 8760#5676: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/26 08:29:14 [notice] 8760#5676: create thread 13248
+2023/02/26 08:29:14 [notice] 8760#5676: create thread 11552
+2023/02/26 08:29:14 [notice] 8760#5676: create thread 17400
+2023/02/26 08:29:19 [info] 8760#13248: *1 client connected '127.0.0.1'
+2023/02/26 08:29:19 [info] 8760#13248: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/live' tc_url='rtmp://localhost/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:29:19 [info] 8760#13248: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:29:19 [info] 8760#13248: *1 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:30:08 [error] 8760#13248: *3 CreateFile() "C:\Users\asus\Desktop\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8010", referrer: "http://127.0.0.1:8010/"
+2023/02/26 08:30:10 [info] 8760#13248: *2 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/26 08:30:10 [info] 8760#13248: *3 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:30:13 [info] 8760#13248: *4 client connected '127.0.0.1'
+2023/02/26 08:30:13 [info] 8760#13248: *4 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:30:13 [info] 8760#13248: *4 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:30:13 [info] 8760#13248: *4 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:31:26 [info] 8760#13248: *4 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:31:26 [info] 8760#13248: *4 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:31:26 [info] 8760#13248: *4 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:31:28 [error] 8760#13248: *5 CreateFile() "C:\Users\asus\Desktop\nginx2/html/live/test.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /live/test.m3u8 HTTP/1.1", host: "localhost:8010"
+2023/02/26 08:31:28 [info] 8760#13248: *5 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2023/02/26 08:31:30 [error] 8760#13248: *6 CreateFile() "C:\Users\asus\Desktop\nginx2/html/live/test.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /live/test.m3u8 HTTP/1.0", host: "localhost:8010"
+2023/02/26 08:31:45 [info] 8760#13248: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:31:45 [info] 8760#13248: *1 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:31:45 [info] 8760#13248: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:31:45 [info] 8760#13248: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:33:04 [notice] 16380#12948: using the "select-boost" event method
+2023/02/26 08:33:04 [notice] 16380#12948: nginx/1.7.11.3 Gryphon
+2023/02/26 08:33:04 [info] 16380#12948: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/26 08:33:04 [notice] 16380#12948: start worker processes
+2023/02/26 08:33:04 [notice] 16380#12948: start worker process 4236
+2023/02/26 08:33:04 [notice] 4236#3492: sockinit() attempting to access sockapi
+2023/02/26 08:33:04 [notice] 4236#3492: Access to sockapi succeded!
+2023/02/26 08:33:04 [notice] 4236#3492: using sockapi from "4;96;"
+2023/02/26 08:33:04 [notice] 4236#3492: nginx/1.7.11.3 Gryphon
+2023/02/26 08:33:04 [info] 4236#3492: OS: 260200 build:9200, "", suite:300, type:1
+2023/02/26 08:33:04 [notice] 4236#3492: create thread 10876
+2023/02/26 08:33:04 [notice] 4236#3492: create thread 17024
+2023/02/26 08:33:04 [notice] 4236#3492: create thread 10236
+2023/02/26 08:33:16 [info] 4236#10876: *3 client connected '127.0.0.1'
+2023/02/26 08:33:16 [info] 4236#10876: *3 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/hls' tc_url='rtmp://localhost/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:33:16 [info] 4236#10876: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:33:16 [info] 4236#10876: *3 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:33:46 [info] 4236#10876: *2 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/26 08:33:46 [info] 4236#10876: *1 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:33:51 [info] 4236#10876: *5 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:33:51 [info] 4236#10876: *4 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:33:51 [info] 4236#10876: *6 client connected '127.0.0.1'
+2023/02/26 08:33:51 [info] 4236#10876: *6 connect: app='hls' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/hls' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:33:51 [info] 4236#10876: *6 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:33:51 [info] 4236#10876: *6 play: name='test' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:34:08 [info] 4236#10876: *6 WSASend() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:34:08 [info] 4236#10876: *6 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:34:08 [info] 4236#10876: *6 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:40:02 [error] 4236#10876: *7 CreateFile() "C:\Users\asus\Desktop\nginx2/html/live/test.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /live/test.m3u8 HTTP/1.1", host: "localhost:8010"
+2023/02/26 08:40:02 [info] 4236#10876: *7 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2023/02/26 08:40:04 [error] 4236#10876: *8 CreateFile() "C:\Users\asus\Desktop\nginx2/html/live/test.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /live/test.m3u8 HTTP/1.0", host: "localhost:8010"
+2023/02/26 08:41:52 [info] 4236#10876: *13 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/26 08:41:52 [info] 4236#10876: *12 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:42:02 [info] 4236#10876: *15 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/26 08:42:02 [info] 4236#10876: *14 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:42:12 [info] 4236#10876: *16 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:42:12 [info] 4236#10876: *17 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/26 08:42:15 [info] 4236#10876: *10 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:42:15 [info] 4236#10876: *11 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:42:22 [info] 4236#10876: *18 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:42:22 [info] 4236#10876: *19 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/26 08:42:32 [info] 4236#10876: *20 client 127.0.0.1 closed keepalive connection
+2023/02/26 08:42:32 [info] 4236#10876: *21 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8010
+2023/02/26 08:42:56 [info] 4236#10876: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:42:56 [info] 4236#10876: *3 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:42:56 [info] 4236#10876: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2023/02/26 08:42:56 [info] 4236#10876: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
